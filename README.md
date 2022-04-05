@@ -10,6 +10,6 @@ This assignment highlights the use of Javascript by modifying starter code in or
 
 **Submission**
 * The URL of the deployed application.
-  * URL of deployed application: https://jchoe125.github.io/Password-Generator/
+  * URL of deployed application: https://jchoe125.github.io/PasswordGenerator/
 * The URL of the GitHub repository, with a unique name and a README that describes the project
-  * URL to GitHub repository: https://github.com/jchoe125/Password-Generator
+  * URL to GitHub repository: https://github.com/jchoe125/PasswordGenerator
